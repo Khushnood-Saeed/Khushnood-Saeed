@@ -1,3 +1,4 @@
+![logo](https://github.com/Khushnood-Saeed/Khushnood-Saeed/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm M. Khushnood Saeed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
