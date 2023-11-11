@@ -1,6 +1,6 @@
 ![logo](https://github.com/Khushnood-Saeed/Khushnood-Saeed/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm M. Khushnood Saeed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Software Developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
