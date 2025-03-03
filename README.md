@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushnood-saeed&label=Profile%20views&color=0e75b6&style=flat" alt="khushnood-saeed" /> </p>
 
-- 🌱 I’m currently as an **Android Developer**
+- 🌱 I’m currently working as an **Android Developer**
 
 - 📫 How to reach me **khushnodsaeed21@gmail.com**
 
